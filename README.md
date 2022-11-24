@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabedurand
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in javascript and devops
 - 🌱 I’m currently learning typescript & nextjs
 - 📫 How to reach me gdurand@jlgarchitects.com
 
