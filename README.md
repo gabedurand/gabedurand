@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @gabedurand and I work at JLG Architects
-- 👀 I’m interested in javascript and devops
-- 🌱 I’m currently learning typescript & nextjs
 - 📫 How to reach me gdurand@jlgarchitects.com
 
 <!---
